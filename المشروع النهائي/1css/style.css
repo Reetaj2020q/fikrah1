@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap');
+
+footer{
+    background-color: #002d4e;
+    color: #ffffff;
+}
+.jumbotron{
+        background-image: url("https://images.adsttc.com/media/images/500f/43f4/28ba/0d0c/c700/23e2/newsletter/stringio.jpg?1414333896");
+        background-size:cover;
+        background-repeat:no-repeat;
+        color:#000000;
+
+}
+.navbar-brand{
+    img{
+        width:380px;
+        position : relative;
+    }
+    
+}
